@@ -1,0 +1,19 @@
+# Compiled class file
+*.class
+
+.classpath
+.settings
+.project
+
+# Log file
+*.log
+
+target
+
+# Package Files #
+*.jar
+*.zip
+*.tar.gz
+
+
+
